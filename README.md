@@ -8,7 +8,6 @@
 - **Degree Program:** PhD in Cyber Operations
 - **Degree Institution:** Dakota State University  
 - **Project Description:** In part for fulfillment of the final exam project of CSC-840: Cyber Operations I
-- **Version Control:** Draft revision 0.2.0
 - **Semester:** Fall 2021
 - 
 ## Code uploads pendings. Topics include
