@@ -1,4 +1,4 @@
-# CSC-840: Cyber Operations I || DNS Tunneling Lab Demo (Draft)
+# DNS Tunneling Lab Demo (Draft)
 
 ## General infomation
 - **Project Author:**  Kevin Wafula
