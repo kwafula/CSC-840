@@ -7,7 +7,7 @@
 - **Course Professor:** Dr. Michael Ham
 - **Degree Program:** PhD in Cyber Operations
 - **Degree Institution:** Dakota State University  
-- **Project Description:** In part for fulfillment of the final exam project of CSC-840: Cyber Operations I
+- **Project Description:** In part for fulfillment of the Course CSC-840: Cyber Operations I
 - **Semester:** Fall 2021
 - 
 ## Code uploads pendings. Topics include
